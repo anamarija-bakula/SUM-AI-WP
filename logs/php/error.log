@@ -1,0 +1,174 @@
+[21-Jan-2024 11:23:16 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\edit.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:27:56 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:27:59 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:00 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\plugin-install.php(16): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:04 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\plugin-install.php(16): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:04 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:05 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\plugin-install.php(16): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:05 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:06 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\edit.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:06 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\edit.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\edit.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\edit.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:28:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "shortcode" not found or invalid function name in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-settings.php(643): do_action('init')
+#3 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-config.php(103): require_once('C:\\Users\\ProXyT...')
+#4 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-load.php(50): require_once('C:\\Users\\ProXyT...')
+#5 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\ProXyT...')
+#6 C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-admin\index.php(10): require_once('C:\\Users\\ProXyT...')
+#7 {main}
+  thrown in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-hook.php on line 324
+[21-Jan-2024 11:52:04 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[21-Jan-2024 12:16:03 UTC] PHP Warning:  Undefined array key "pa_tooltip_class" in C:\Users\ProXyTG\Local Sites\sum-ai\app\public\wp-content\plugins\premium-addons-for-elementor\modules\premium-global-tooltips\module.php on line 1228
